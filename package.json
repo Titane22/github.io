@@ -27,7 +27,7 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://ha-yeon-lee.github.io",
+  "homepage": "http://titane22.github.io/github.io/",
   "scripts": {
     "predeploy": "npm run build",
 	  "deploy": "gh-pages -d build",
